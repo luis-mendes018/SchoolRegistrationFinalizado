@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">School Registration</string>
+    <string name="txtId">RE</string>
+    <string name="txtNome">nome</string>
+    <string name="txtDataCad">Data do Cadastro</string>
+    <string name="txtUnidades">Unidades</string>
+    <string name="txtTipo">Tipo</string>
+    <string name="txtCadastrar">Cadastrar</string>
+    <string name="txtExcluir">Excluir</string>
+    <string name="txtAlterar">Alterar</string>
+    <string name="txtBuscar">Buscar</string>
+    <string name="txtListar">Listar</string>
+
+</resources>
